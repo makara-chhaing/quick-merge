@@ -1,0 +1,12 @@
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/bin/Debug/netcoreapp3.1/task3.2.deps.json
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/bin/Debug/netcoreapp3.1/task3.2.runtimeconfig.json
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/bin/Debug/netcoreapp3.1/task3.2.runtimeconfig.dev.json
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/bin/Debug/netcoreapp3.1/task3.2.dll
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/bin/Debug/netcoreapp3.1/task3.2.pdb
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.csprojAssemblyReference.cache
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.AssemblyInfoInputs.cache
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.AssemblyInfo.cs
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.csproj.CoreCompileInputs.cache
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.dll
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.pdb
+/Users/chanmakara/Desktop/SIT221/task3.2D/task3.2/task3.2/obj/Debug/netcoreapp3.1/task3.2.genruntimeconfig.cache
